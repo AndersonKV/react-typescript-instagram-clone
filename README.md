@@ -1,8 +1,9 @@
 # react-typescript-instagram-clone
 
 
-Projeto feito usando typescript no back e no front, react, node js, express, jwt e bcrypt
+Projeto feito usando typescript no back e no front, react (hooks), node js, express, jwt e bcrypt
 
+React
 
 <b>Features</b>
 
